@@ -4881,7 +4881,7 @@ Public Class AccesoLogica
         Return _Tabla
     End Function
 #End Region
-
+    'Prueba de compilacion
 
 
 End Class
